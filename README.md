@@ -1,4 +1,4 @@
-# Codility_Cyclic_Rotation
+# Codility Cyclic Rotation
 Lessons for PHP by Codility
 Rotate an array to the right by a given number of steps.
 
